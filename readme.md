@@ -1,0 +1,1 @@
+- I have made one project, Misunderstood, a creative web app built in HTML, CSS, and JS. It access two API's, New Yorker Cartoon and PoetryDB, and displays a random cartoon with a random line of poetry as a caption.
